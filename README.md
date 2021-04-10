@@ -4,7 +4,9 @@ Budget Tracker is an app that gives users a fast and easy way to track their mon
 Budget tracker is a progressive web-based application that utilizes server-side compression, web manifest, a service worker, static asset and data caching as well as Mongo DB.
 
 To visit the Budget Tracker App [click here](https://budget-tracker-nc.herokuapp.com/)
+
 To visit the Budget Tracker Repo [click here](https://jjannross.github.io/budget-tracker/)
+
 To watch a demonstration [click here](https://drive.google.com/file/d/1bQJcI9Sc65-vAPOWIw0Wf6uPENyICN5M/view)
 
 ## Prerequisites
