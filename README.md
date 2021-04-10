@@ -1,11 +1,12 @@
 # budget-tracker
-Budget Tracker is an app that gives users a fast and easy way to track their money, including the ability to access that information at any time regardless of internet connection.   The user will be able to add expenses and deposits to their budget with or without a connection. When transactions are entered, they should populate the total when brought back online. When the user inputs a withdrawal or deposit, then it will be shown on the page, and added to their transaction history when their connection is back online.  
+
+Budget Tracker is an app that gives users a fast and easy way to track their money, including the ability to access that information at any time regardless of internet connection. The user will be able to add expenses and deposits to their budget with or without a connection. When transactions are entered, they should populate the total when brought back online. When the user inputs a withdrawal or deposit, then it will be shown on the page, and added to their transaction history when their connection is back online.
 
 Budget tracker is a progressive web-based application that utilizes server-side compression, web manifest, a service worker, static asset and data caching as well as Mongo DB.
 
 To visit the Budget Tracker App [click here](https://budget-tracker-nc.herokuapp.com/)
 
-To visit the Budget Tracker Repo [click here](https://jjannross.github.io/budget-tracker/)
+To visit the Budget Tracker Repo [click here](https://github.com/jjannross/budget-tracker)
 
 To watch a demonstration [click here](https://drive.google.com/file/d/1bQJcI9Sc65-vAPOWIw0Wf6uPENyICN5M/view)
 
@@ -77,4 +78,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
